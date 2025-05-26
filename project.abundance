@@ -7,7 +7,29 @@
     "ioValues": [],
     "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
     "topLevel": true,
-    "allAtoms": [],
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.98,
+            "y": 0.5,
+            "uniqueID": 1748283318394,
+            "ioValues": [],
+            "description": "Connect geometry here to make it available in the next level up. "
+        },
+        {
+            "atomType": "Import",
+            "name": "Import",
+            "x": 0.08333333333333333,
+            "y": 0.532399299474606,
+            "uniqueID": 1748283413711,
+            "ioValues": [],
+            "description": "Import Atom, let's you choose a type of file to import and use in your design.",
+            "fileName": "box.svg",
+            "type": "SVG",
+            "SVGwidth": 10
+        }
+    ],
     "allConnectors": [],
     "unitsKey": "MM",
     "fileTypeVersion": 1,
