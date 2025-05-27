@@ -20,8 +20,8 @@
         {
             "atomType": "Import",
             "name": "Import",
-            "x": 0.08333333333333333,
-            "y": 0.532399299474606,
+            "x": 0.09607843137254903,
+            "y": 0.4991243432574431,
             "uniqueID": 1748283413711,
             "ioValues": [],
             "description": "Import Atom, let's you choose a type of file to import and use in your design.",
